@@ -57,12 +57,12 @@ kmeans-clustering/
 
 ## 📊 Dataset Information
 
- | Feature                  | Description                                     |
+ |       Feature            |                    Description                 |
 | ------------------------ | ----------------------------------------------- |
-| 🌿 **Sepal Length (cm)** | Feature 1                                       |
-| 🌿 **Sepal Width (cm)**  | Feature 2                                       |
-| 🌸 **Petal Length (cm)** | Feature 3                                       |
-| 🌸 **Petal Width (cm)**  | Feature 4                                       |
+| 🌿 **Sepal Length (cm)** |                    Feature 1                    |
+| 🌿 **Sepal Width (cm)**  |                    Feature 2                    |
+| 🌸 **Petal Length (cm)** |                    Feature 3                    |
+| 🌸 **Petal Width (cm)**  |                    Feature 4                    |
 | 🌼 **Species**           | Target variable (Setosa, Versicolor, Virginica) |
 
 ## 📘 Sample Data
