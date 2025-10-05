@@ -43,6 +43,8 @@ kmeans-clustering/
 
 ```
 
+---
+
 ## 🧠 Code Overview
 #### Main steps in the implementation:
 1. Load and explore Iris dataset
@@ -76,7 +78,7 @@ kmeans-clustering/
 ---
 
 ## 📈 Results & Evaluation
-  ## ⚙️ Performance Metrics
+  ### ⚙️ Performance Metrics
   
 | Metric                                | Value  |
 | ------------------------------------- | ------ |
@@ -85,7 +87,7 @@ kmeans-clustering/
 | Silhouette Score                      | 0.551  |
 
 
- ## 🌸 Cluster Analysis
+ ### 🌸 Cluster Analysis
  
 | Cluster   | Predominant Species | Accuracy |
 | --------- | ------------------- | -------- |
