@@ -67,7 +67,7 @@ kmeans-clustering/
 | 🌸 **Petal Width (cm)**  |                    Feature 4                    |
 | 🌼 **Species**           | Target variable (Setosa, Versicolor, Virginica) |
 
-## 📘 Sample Data
+### 📘 Sample Data
 
 | Sepal Length | Sepal Width | Petal Length | Petal Width | Species |
 | ------------ | ----------- | ------------ | ----------- | ------- |
@@ -78,7 +78,7 @@ kmeans-clustering/
 ---
 
 ## 📈 Results & Evaluation
-  ### ⚙️ Performance Metrics
+  #### ⚙️ Performance Metrics
   
 | Metric                                | Value  |
 | ------------------------------------- | ------ |
@@ -87,7 +87,7 @@ kmeans-clustering/
 | Silhouette Score                      | 0.551  |
 
 
- ### 🌸 Cluster Analysis
+ #### 🌸 Cluster Analysis
  
 | Cluster   | Predominant Species | Accuracy |
 | --------- | ------------------- | -------- |
